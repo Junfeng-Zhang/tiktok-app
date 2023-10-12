@@ -89,7 +89,7 @@ export default function TopNav() {
               className="flex items-center border rounded-sm py-[6px] hover:bg-gray-100 pl-1.5"
             >
               <AiOutlinePlus color="#000000" size="22" />
-              <span className="px-2 font-medium text-[15px]">上传视频</span>
+              <span className="px-2 font-medium text-[15px]">视频上传</span>
             </button>
 
             {!userContext?.user?.id ? (
