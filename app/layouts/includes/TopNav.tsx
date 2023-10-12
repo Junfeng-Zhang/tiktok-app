@@ -130,7 +130,7 @@ export default function TopNav() {
                         onClick={async () => {
                           await userContext?.logout()
                           setShowMenu(false)
-                          router.push('/')
+                          // router.push('/')
                         }}
                         className="flex items-center justify-start w-full py-3 px-1.5 hover:bg-gray-100 border-t cursor-pointer"
                       >
