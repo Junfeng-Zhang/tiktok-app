@@ -123,4 +123,9 @@ npm run dev
 ```
 
 ### 项目截图
+![Home](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/f73222d5-ebdc-4faf-abc1-1b3bb93b2cc0)
+![Register](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/8e820185-5ba1-4056-89ff-ddf49f590e89)
+![Profile](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/d24f5a95-51c5-484d-9d44-13f43312951c)
+![Video_Upload](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/654c5a6f-cbaa-4918-be64-52523ea112c9)
+![Comments](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/469a360f-df7c-4524-ad0f-9d969bfb4887)
 
