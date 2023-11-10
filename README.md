@@ -123,9 +123,9 @@ npm run dev
 ```
 
 ### 项目截图
-![Home](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/f73222d5-ebdc-4faf-abc1-1b3bb93b2cc0)
-![Register](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/8e820185-5ba1-4056-89ff-ddf49f590e89)
-![Profile](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/d24f5a95-51c5-484d-9d44-13f43312951c)
-![Video_Upload](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/654c5a6f-cbaa-4918-be64-52523ea112c9)
-![Comments](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/469a360f-df7c-4524-ad0f-9d969bfb4887)
+![Home](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/ee8dae70-7326-473f-8e08-08e6fa60d705)
+![Register](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/bcde6913-9611-4120-9567-722b50f7cd90)
+![Profile](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/ffd1ee44-e986-4285-9fc5-3a01e6cfc986)
+![Video_Upload](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/c3899dad-0918-4d08-9d56-499fb282f516)
+![Comments](https://github.com/Junfeng-Zhang/tiktok-app/assets/60849891/a8377285-987c-45fb-8573-5c3508c0b394)
 
