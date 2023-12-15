@@ -26,7 +26,8 @@ export default function AuthOverlay() {
           {isRegister ? <Register /> : <Login />}
 
           <div className="absolute flex items-center justify-center py-5 left-0 bottom-0 border-t w-full">
-            <span className="text-[14px] text-gray-600">没有账户?</span>
+            {/* <span className="text-[14px] text-gray-600">没有账户?</span> */}
+            <span className="text-[14px] text-gray-600">{!isRegister ? '没有账号？' : '已有账号！'}</span>
 
             <button onClick={() => setIsRegister(isRegister = !isRegister)} className="text-[14px] text-[#F02C56] font-semibold pl-1" >
               <span>{!isRegister ? '注册' : '登录'}</span>
